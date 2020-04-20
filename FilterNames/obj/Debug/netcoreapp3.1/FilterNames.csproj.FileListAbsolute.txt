@@ -1,0 +1,13 @@
+C:\JonathanCAcquesta\GitHub\Algorithms\FilterNames\bin\Debug\netcoreapp3.1\FilterNames.exe
+C:\JonathanCAcquesta\GitHub\Algorithms\FilterNames\bin\Debug\netcoreapp3.1\FilterNames.deps.json
+C:\JonathanCAcquesta\GitHub\Algorithms\FilterNames\bin\Debug\netcoreapp3.1\FilterNames.runtimeconfig.json
+C:\JonathanCAcquesta\GitHub\Algorithms\FilterNames\bin\Debug\netcoreapp3.1\FilterNames.runtimeconfig.dev.json
+C:\JonathanCAcquesta\GitHub\Algorithms\FilterNames\bin\Debug\netcoreapp3.1\FilterNames.dll
+C:\JonathanCAcquesta\GitHub\Algorithms\FilterNames\bin\Debug\netcoreapp3.1\FilterNames.pdb
+C:\JonathanCAcquesta\GitHub\Algorithms\FilterNames\obj\Debug\netcoreapp3.1\FilterNames.csprojAssemblyReference.cache
+C:\JonathanCAcquesta\GitHub\Algorithms\FilterNames\obj\Debug\netcoreapp3.1\FilterNames.csproj.CoreCompileInputs.cache
+C:\JonathanCAcquesta\GitHub\Algorithms\FilterNames\obj\Debug\netcoreapp3.1\FilterNames.AssemblyInfoInputs.cache
+C:\JonathanCAcquesta\GitHub\Algorithms\FilterNames\obj\Debug\netcoreapp3.1\FilterNames.AssemblyInfo.cs
+C:\JonathanCAcquesta\GitHub\Algorithms\FilterNames\obj\Debug\netcoreapp3.1\FilterNames.dll
+C:\JonathanCAcquesta\GitHub\Algorithms\FilterNames\obj\Debug\netcoreapp3.1\FilterNames.pdb
+C:\JonathanCAcquesta\GitHub\Algorithms\FilterNames\obj\Debug\netcoreapp3.1\FilterNames.genruntimeconfig.cache
