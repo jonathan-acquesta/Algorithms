@@ -9,7 +9,7 @@ namespace BodyMassIndex
     {
         #region Fields
 
-        private const string YesAnswear = "YES";
+        private const string YesAnswer = "YES";
 
         const string directory = @"C:\Projects\";
 
@@ -27,9 +27,9 @@ namespace BodyMassIndex
             ShowDataInFile();
 
             QuestionAboutAddNewItem();
-            var answear = Console.ReadLine();
+            var answer = Console.ReadLine();
 
-            while (answear.ToUpper() == YesAnswear)
+            while (answer.ToUpper() == YesAnswer)
             {
                 AddNewItem();
 
@@ -37,7 +37,7 @@ namespace BodyMassIndex
                 ShowDataInFile();
 
                 QuestionAboutAddNewItem();
-                answear = Console.ReadLine();
+                answer = Console.ReadLine();
             }
 
         }
